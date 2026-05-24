@@ -1,0 +1,29 @@
+
+
+.questionContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: start;
+    align-items: start;
+
+   
+
+    span{
+        font-size: 20px;
+    }
+}
+
+.buttonsContainer{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    gap: 20px;
+    button{
+        padding: 10px;
+    }
+}
+
+.hiddenAnswer{
+    background-color: black;
+}

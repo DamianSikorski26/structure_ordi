@@ -1,0 +1,444 @@
+[
+  {
+    "question": "Qui a inventé le terme 'Informatik' en 1957 ?",
+    "answer": "Karl Steinbuch"
+  },
+  {
+    "question": "Quel composant caractérise la première génération d'ordinateurs (1945-1955) ?",
+    "answer": "Le tube à vide"
+  },
+  {
+    "question": "Quel composant caractérise la deuxième génération d'ordinateurs (1955-1965) ?",
+    "answer": "Le transistor"
+  },
+  {
+    "question": "Quel composant caractérise la troisième génération d'ordinateurs (1965-1980) ?",
+    "answer": "Le circuit intégré"
+  },
+  {
+    "question": "Quel composant caractérise la quatrième génération d'ordinateurs (depuis 1980) ?",
+    "answer": "Le microprocesseur"
+  },
+  {
+    "question": "Qui a inventé la machine à calculer mécanique appelée Pascaline ?",
+    "answer": "Blaise Pascal"
+  },
+  {
+    "question": "Qui est considérée comme la première programmeuse de l'histoire (1843) ?",
+    "answer": "Ada Lovelace"
+  },
+  {
+    "question": "Quelle architecture utilise une mémoire unique pour les données et les programmes ?",
+    "answer": "L'architecture de Von Neumann"
+  },
+  {
+    "question": "Quelle architecture sépare physiquement la mémoire des données de celle des programmes ?",
+    "answer": "L'architecture de Harvard"
+  },
+  {
+    "question": "Que signifie le sigle UAL dans un processeur ?",
+    "answer": "Unité Arithmétique et Logique"
+  },
+  {
+    "question": "Quel registre contient l'adresse mémoire de la prochaine instruction à exécuter ?",
+    "answer": "Le Compteur Ordinal (PC)"
+  },
+  {
+    "question": "Quel registre stocke l'instruction actuellement en cours de traitement ?",
+    "answer": "Le Registre d'Instruction (IR)"
+  },
+  {
+    "question": "Quel bus indique l'emplacement mémoire précis ciblé par le processeur ?",
+    "answer": "Le bus d'adresses"
+  },
+  {
+    "question": "Quel bus est strictement unidirectionnel, du processeur vers la mémoire ?",
+    "answer": "Le bus d'adresses"
+  },
+  {
+    "question": "Quel bus transporte le contenu de l'information lue ou écrite ?",
+    "answer": "Le bus de données"
+  },
+  {
+    "question": "Quel bus synchronise les opérations matérielles (lecture/écriture) ?",
+    "answer": "Le bus de contrôle"
+  },
+  {
+    "question": "Quelle porte logique réalise l'opération d'addition booléenne ?",
+    "answer": "La porte OU (OR)"
+  },
+  {
+    "question": "Quelle porte logique réalise l'opération de multiplication booléenne ?",
+    "answer": "La porte ET (AND)"
+  },
+  {
+    "question": "Quelle porte logique inverse l'état de son unique entrée ?",
+    "answer": "La porte NON (NOT)"
+  },
+  {
+    "question": "Quelle porte logique ne renvoie 0 que si toutes ses entrées sont à 1 ?",
+    "answer": "La porte NAND (NON-ET)"
+  },
+  {
+    "question": "Quelle porte logique renvoie 1 uniquement si ses entrées sont différentes ?",
+    "answer": "La porte XOR (OU Exclusif)"
+  },
+  {
+    "question": "En algèbre de Boole, que vaut toujours l'expression A + 0 ?",
+    "answer": "A"
+  },
+  {
+    "question": "En algèbre de Boole, que vaut toujours l'expression A . 1 ?",
+    "answer": "A"
+  },
+  {
+    "question": "En algèbre de Boole, que vaut toujours l'expression A + 1 ?",
+    "answer": "1"
+  },
+  {
+    "question": "En algèbre de Boole, que vaut toujours l'expression A . 0 ?",
+    "answer": "0"
+  },
+  {
+    "question": "En algèbre de Boole, que vaut l'expression A + (NON A) ?",
+    "answer": "1"
+  },
+  {
+    "question": "En algèbre de Boole, que vaut l'expression A . (NON A) ?",
+    "answer": "0"
+  },
+  {
+    "question": "Quel théorème indique que NON(A + B) = NON(A) . NON(B) ?",
+    "answer": "Le théorème de De Morgan"
+  },
+  {
+    "question": "Quel circuit logique combinatoire sélectionne une entrée parmi plusieurs selon une adresse ?",
+    "answer": "Le multiplexeur"
+  },
+  {
+    "question": "Quel circuit logique combinatoire distribue une entrée unique vers plusieurs sorties possibles ?",
+    "answer": "Le démultiplexeur"
+  },
+  {
+    "question": "Quel circuit traduit un code binaire en activant une seule ligne de sortie correspondante ?",
+    "answer": "Le décodeur"
+  },
+  {
+    "question": "Comment nomme-t-on un circuit dont la sortie ne dépend que de ses entrées actuelles ?",
+    "answer": "Un circuit combinatoire"
+  },
+  {
+    "question": "Comment nomme-t-on un circuit dont la sortie dépend des entrées actuelles et de l'état précédent ?",
+    "answer": "Un circuit séquentiel"
+  },
+  {
+    "question": "Quel signal périodique sert à synchroniser l'ensemble des circuits séquentiels ?",
+    "answer": "L'horloge (Clock)"
+  },
+  {
+    "question": "Quel composant est la brique de base pour mémoriser un bit dans un circuit séquentiel ?",
+    "answer": "La bascule (Flip-flop)"
+  },
+  {
+    "question": "Comment appelle-t-on un groupe de bascules permettant de stocker un mot binaire ?",
+    "answer": "Un registre"
+  },
+  {
+    "question": "Quelle est la première étape fondamentale du cycle d'instruction du processeur ?",
+    "answer": "La recherche (Fetch)"
+  },
+  {
+    "question": "Quelle est la deuxième étape du cycle d'instruction ?",
+    "answer": "Le décodage (Decode)"
+  },
+  {
+    "question": "Quelle est la troisième étape principale du cycle d'instruction ?",
+    "answer": "L'exécution (Execute)"
+  },
+  {
+    "question": "Quel type de mémoire perd l'intégralité de ses données lors d'une coupure de courant ?",
+    "answer": "La mémoire volatile (RAM)"
+  },
+  {
+    "question": "Quel type de mémoire conserve ses données de manière permanente, même sans alimentation ?",
+    "answer": "La mémoire morte (ROM)"
+  },
+  {
+    "question": "Quelle est la mémoire la plus rapide de toute l'architecture d'un ordinateur ?",
+    "answer": "Les registres du processeur"
+  },
+  {
+    "question": "Quelle mémoire sert de tampon ultra-rapide entre la RAM et le processeur ?",
+    "answer": "La mémoire cache"
+  },
+  {
+    "question": "Comment appelle-t-on le langage de plus bas niveau, composé de 0 et de 1, exécutable par le CPU ?",
+    "answer": "Le langage machine"
+  },
+  {
+    "question": "Quel composant du processeur a pour rôle de diriger et de séquencer l'ensemble des opérations ?",
+    "answer": "L'Unité de Contrôle"
+  },
+  {
+    "question": "Combien de bits contient exactement un octet ?",
+    "answer": "8 bits"
+  },
+  {
+    "question": "Combien de valeurs différentes peut-on représenter avec 4 bits ?",
+    "answer": "16 valeurs"
+  },
+  {
+    "question": "Quelle base mathématique est utilisée par le système hexadécimal ?",
+    "answer": "La base 16"
+  },
+  {
+    "question": "Quel célèbre ordinateur a été conçu par Alan Turing et John Von Neumann en 1949 ?",
+    "answer": "Le Manchester Mark 1"
+  },
+  {
+    "question": "Comment appelle-t-on un système informatique intégré dans un appareil plus grand pour une tâche spécifique ?",
+    "answer": "Un système embarqué"
+  },
+  {
+    "question": "Quel composant du processeur est chargé d'effectuer les calculs mathématiques et logiques ?",
+    "answer": "L'UAL (Unité Arithmétique et Logique)."
+  },
+  {
+    "question": "Quel registre contient l'adresse mémoire de la prochaine instruction à exécuter ?",
+    "answer": "Le Compteur Ordinal (ou PC - Program Counter)."
+  },
+  {
+    "question": "Dans l'architecture de Von Neumann, comment sont stockés les données et les programmes ?",
+    "answer": "Dans une mémoire unique et partagée."
+  },
+  {
+    "question": "Quel type de bus est utilisé pour indiquer au système l'emplacement précis où lire ou écrire une donnée ?",
+    "answer": "Le bus d'adresses."
+  },
+  {
+    "question": "Quelle est l'unité de mémoire la plus rapide, mais aussi la plus petite, située au cœur du processeur ?",
+    "answer": "Le registre."
+  },
+  {
+    "question": "Comment s'appelle le composant du processeur qui orchestre et synchronise le traitement des instructions ?",
+    "answer": "L'Unité de Contrôle."
+  },
+  {
+    "question": "Quel circuit combinatoire permet d'aiguiller une entrée de données parmi plusieurs selon une adresse ?",
+    "answer": "Le multiplexeur."
+  },
+  {
+    "question": "Lors du cycle d'instruction, quelle étape suit immédiatement la lecture (Fetch) ?",
+    "answer": "Le décodage (Decode)."
+  },
+  {
+    "question": "Quelle porte logique ne renvoie la valeur 1 que si toutes ses entrées sont à 1 ?",
+    "answer": "La porte ET (AND)."
+  },
+  {
+    "question": "Quel est le nom du langage de plus bas niveau, composé uniquement de 0 et de 1, exécutable directement par le processeur ?",
+    "answer": "Le langage machine."
+  },
+  {
+    "question": "Qui a conçu la 'Machine Analytique' au 19ème siècle, considérée comme le premier concept d'ordinateur programmable ?",
+    "answer": "Charles Babbage"
+  },
+  {
+    "question": "Comment appelle-t-on un regroupement exact de 4 bits ?",
+    "answer": "Un quartet (ou nibble)"
+  },
+  {
+    "question": "Quel standard international régit la représentation en mémoire des nombres à virgule flottante ?",
+    "answer": "L'IEEE 754"
+  },
+  {
+    "question": "Quelle est la méthode standard pour représenter des nombres entiers négatifs en langage machine ?",
+    "answer": "Le complément à deux"
+  },
+  {
+    "question": "Quel est le résultat de l'addition binaire 1 + 1 ?",
+    "answer": "10"
+  },
+  {
+    "question": "Quel est le plus grand nombre entier positif que l'on peut coder sur 8 bits non signés ?",
+    "answer": "255"
+  },
+  {
+    "question": "Quel est le plus grand nombre entier positif que l'on peut coder sur 8 bits signés (complément à deux) ?",
+    "answer": "127"
+  },
+  {
+    "question": "Quelle porte logique renvoie 1 si et seulement si ses deux entrées sont de valeur identique ?",
+    "answer": "La porte XNOR (Équivalence)"
+  },
+  {
+    "question": "En algèbre de Boole, quel est le résultat de l'expression NON(NON(A)) ?",
+    "answer": "A (Loi d'involution)"
+  },
+  {
+    "question": "En algèbre de Boole, quel est l'élément neutre de l'addition logique (fonction OU) ?",
+    "answer": "0"
+  },
+  {
+    "question": "En algèbre de Boole, quel est l'élément neutre de la multiplication logique (fonction ET) ?",
+    "answer": "1"
+  },
+  {
+    "question": "Quelles sont les deux portes logiques dites 'universelles' capables de recréer toutes les autres ?",
+    "answer": "NAND et NOR"
+  },
+  {
+    "question": "Comment nomme-t-on le bit supplémentaire ajouté à une donnée binaire pour vérifier qu'elle n'a pas été corrompue ?",
+    "answer": "Le bit de parité"
+  },
+  {
+    "question": "Quel algorithme célèbre permet non seulement de détecter mais aussi de corriger une erreur d'un bit en mémoire ?",
+    "answer": "Le code de Hamming"
+  },
+  {
+    "question": "Quelle technique processeur permet de commencer une nouvelle instruction avant que la précédente ne soit terminée ?",
+    "answer": "Le pipeline"
+  },
+  {
+    "question": "Comment appelle-t-on un processeur qui intègre plusieurs unités de traitement indépendantes sur la même puce ?",
+    "answer": "Un processeur multicœur"
+  },
+  {
+    "question": "Quelle technique permet au processeur d'anticiper le résultat d'un test conditionnel pour gagner du temps ?",
+    "answer": "La prédiction de branchement"
+  },
+  {
+    "question": "Comment appelle-t-on la réorganisation à la volée des instructions par le CPU pour optimiser les temps morts ?",
+    "answer": "L'exécution dans le désordre (Out-of-order execution)"
+  },
+  {
+    "question": "Quelle est la principale différence entre la mémoire cache L1 et la mémoire cache L2 ?",
+    "answer": "Le L1 est plus petit mais plus rapide et plus proche du cœur."
+  },
+  {
+    "question": "Quelle technique du système d'exploitation permet d'utiliser l'espace du disque de stockage comme extension de la RAM ?",
+    "answer": "La mémoire virtuelle"
+  },
+  {
+    "question": "Dans le mécanisme de mémoire virtuelle, comment appelle-t-on les blocs de données de taille fixe ?",
+    "answer": "Les pages"
+  },
+  {
+    "question": "Quel petit cache matériel spécialisé accélère la traduction des adresses virtuelles en adresses physiques ?",
+    "answer": "Le TLB (Translation Lookaside Buffer)"
+  },
+  {
+    "question": "Quelle politique de cache écrit la donnée simultanément dans le cache et dans la mémoire RAM ?",
+    "answer": "Le Write-through (écriture simultanée)"
+  },
+  {
+    "question": "Quelle politique de cache attend qu'une donnée soit expulsée du cache pour la sauvegarder en RAM ?",
+    "answer": "Le Write-back (écriture différée)"
+  },
+  {
+    "question": "Quel système permet à un périphérique de transférer de gros volumes de données en RAM sans occuper le processeur ?",
+    "answer": "Le DMA (Direct Memory Access)"
+  },
+  {
+    "question": "Quel bus d'extension interne, fonctionnant en série, est le standard actuel pour brancher une carte graphique ?",
+    "answer": "Le PCI Express (PCIe)"
+  },
+  {
+    "question": "Quel acronyme anglais désigne un disque dur mécanique traditionnel à plateaux magnétiques ?",
+    "answer": "HDD (Hard Disk Drive)"
+  },
+  {
+    "question": "Quelle est la plus petite unité d'espace de stockage adressable sur un disque dur magnétique ?",
+    "answer": "Le secteur"
+  },
+  {
+    "question": "Quel standard de codage universel remplace l'ASCII en permettant de représenter quasiment tous les alphabets du monde ?",
+    "answer": "Unicode"
+  },
+  {
+    "question": "Quel système code chaque chiffre d'un nombre décimal sur exactement 4 bits ?",
+    "answer": "Le BCD (Binary Coded Decimal)"
+  },
+  {
+    "question": "Quel acronyme mesure la puissance brute d'un processeur en 'Millions d'Instructions Par Seconde' ?",
+    "answer": "MIPS"
+  },
+  {
+    "question": "Quelle unité est utilisée pour mesurer la puissance de calcul à virgule flottante, notamment pour les supercalculateurs ?",
+    "answer": "FLOPS"
+  },
+  {
+    "question": "Quel composant électronique, basé sur un cristal, génère le signal d'horloge régulier du système ?",
+    "answer": "L'oscillateur (ou quartz)"
+  },
+  {
+    "question": "Quelle petite mémoire, maintenue sous tension par une pile, stocke l'heure et la configuration matérielle de base ?",
+    "answer": "Le CMOS"
+  },
+  {
+    "question": "Comment appelle-t-on l'adresse physique unique, codée sur 48 bits, attribuée en usine à une carte réseau ?",
+    "answer": "L'adresse MAC"
+  },
+  {
+    "question": "Quel niveau de RAID répartit les données sur plusieurs disques pour doubler la vitesse, sans aucune redondance ?",
+    "answer": "RAID 0"
+  },
+  {
+    "question": "Quel niveau de RAID écrit exactement les mêmes données en miroir sur deux disques pour garantir la sécurité ?",
+    "answer": "RAID 1"
+  },
+  {
+    "question": "Comment appelle-t-on l'action du CPU qui suspend un processus pour en reprendre un autre ?",
+    "answer": "Le changement de contexte (Context switch)"
+  },
+  {
+    "question": "Quel mode d'exécution du processeur permet d'accéder sans restriction à tout le matériel et à toute la mémoire ?",
+    "answer": "Le mode noyau (Kernel mode)"
+  },
+  {
+    "question": "Dans une instruction machine, quelle partie indique l'action exacte à réaliser (addition, copie, saut...) ?",
+    "answer": "Le code opératoire (Opcode)"
+  },
+  {
+    "question": "Dans une instruction machine, quelle partie indique la donnée ou l'adresse sur laquelle l'action doit être appliquée ?",
+    "answer": "L'opérande"
+  },
+  {
+    "question": "Comment appelle-t-on la technique qui décompose une instruction complexe en plusieurs sous-opérations matérielles simples ?",
+    "answer": "La micro-programmation"
+  },
+  {
+    "question": "Comment appelait-on historiquement le bus frontal qui reliait le processeur au contrôleur mémoire ?",
+    "answer": "Le FSB (Front Side Bus)"
+  },
+  {
+    "question": "Lors d'une interruption, que doit obligatoirement faire le processeur avec l'état de ses registres avant de traiter l'urgence ?",
+    "answer": "Les sauvegarder (ou les empiler)"
+  },
+  {
+    "question": "Quelle est la mnémonique assembleur la plus courante pour désigner une instruction de copie ou de transfert de donnée ?",
+    "answer": "MOV"
+  },
+  {
+    "question": "Quelle norme de connectique est devenue le standard universel pour relier les périphériques externes à chaud ?",
+    "answer": "L'USB (Universal Serial Bus)"
+  },
+  {
+    "question": "Comment nomme-t-on la technique inefficace où le CPU interroge un périphérique en boucle pour savoir s'il est prêt ?",
+    "answer": "Le Polling (ou scrutation)"
+  },
+  {
+    "question": "Quel est le nom de l'unité fondamentale qui compose une image matricielle sur un écran ?",
+    "answer": "Le pixel"
+  },
+  {
+    "question": "Que signifie l'acronyme GPU, désignant le processeur chargé des calculs d'affichage et 3D ?",
+    "answer": "Graphics Processing Unit"
+  },
+  {
+    "question": "Quel standard moderne gère les états de consommation d'énergie et de mise en veille matérielle de l'ordinateur ?",
+    "answer": "L'ACPI"
+  }
+
+
+]
