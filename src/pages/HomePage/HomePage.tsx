@@ -20,7 +20,7 @@ export default function HomePage(){
     }
 
     return (
-        <section>
+        <section className={style.section}>
             <h2 className={style.Title}>Révision structure des ordinateurs</h2>
             
             <Question size={datas.length} index={currentQuestionIndex} data={datas[currentQuestionIndex]} nextCallBack={nextIndex}/>

@@ -4,6 +4,58 @@
     "answer": "Karl Steinbuch"
   },
   {
+    "question":"Quand et par qui a été inventé le language de programmation?",
+    "answer":"Ada Lovelace en 1843"
+  },
+  {
+    "question":"Quel est le nom de la machine arithmétique créer par Blaise Pascale en 1645?",
+    "answer":"La Pascaline"
+  },
+  {
+    "question":"Qui a inventé le système binaire?",
+    "answer":"Inventé par Sir Francis Bacon en 1623"
+  },
+  {
+    "question":"Que crée Charles Babbage en 1822?",
+    "answer":"La difference engine qui sert à calculer les polynômes"
+  },
+  {
+    "question":"Qui a is en place la logique mathématique dite booléenne?", 
+    "answer":"Georges Boole en 1854"
+  },
+  {
+    "question":"Quel est le premier calculateur universel(presque) programmable?", 
+    "answer":"Le Z3 de Zuse, il fonctionne avec des relais(1400)"
+  },
+  {
+    "question":"Quand et par qui a été inventé le premier calculateur éléctronique?", 
+    "answer":"L'Eniac de Jonh Von Neumann en 1946"
+  },
+  {
+    "question":"Quand en été créer la machine de Turing et à quoi servait elle?", 
+    "answer":"Créer entre 1940 et 1945 pour décrypter des messages codés"
+  },
+  {
+    "question":"Quand esc ce que le Manchester Mark, le premier ordinateur universel éléctronique a t il été créer?", 
+    "answer":"En 1949 par Alan M.Turing et Von Neumann"
+  },
+  {
+    "question":"Quels sont les 3 type de bus dans l'architecture microprocesseur de Von Neumann? ", 
+    "answer":"Le bus d'adresses, de données et de controle."
+  },
+  {
+    "question":"Quand a été inventé le Transitor?", 
+    "answer":"En 1957"
+  },
+  {
+    "question":"Quels type de chipset permet un accès rapide à la mémoire RAM et à la carte vidéo ?", 
+    "answer":"Northbridge"
+  },
+  {
+    "question":"Quels type de chipset permet au processeur de communiquer avec des périphériques plus lents, comme des disques durs, des ports USB ou des slots d'extension ?", 
+    "answer":"Southbridge"
+  },
+  {
     "question": "Quel composant caractérise la première génération d'ordinateurs (1945-1955) ?",
     "answer": "Le tube à vide"
   },
@@ -63,54 +115,7 @@
     "question": "Quel bus synchronise les opérations matérielles (lecture/écriture) ?",
     "answer": "Le bus de contrôle"
   },
-  {
-    "question": "Quelle porte logique réalise l'opération d'addition booléenne ?",
-    "answer": "La porte OU (OR)"
-  },
-  {
-    "question": "Quelle porte logique réalise l'opération de multiplication booléenne ?",
-    "answer": "La porte ET (AND)"
-  },
-  {
-    "question": "Quelle porte logique inverse l'état de son unique entrée ?",
-    "answer": "La porte NON (NOT)"
-  },
-  {
-    "question": "Quelle porte logique ne renvoie 0 que si toutes ses entrées sont à 1 ?",
-    "answer": "La porte NAND (NON-ET)"
-  },
-  {
-    "question": "Quelle porte logique renvoie 1 uniquement si ses entrées sont différentes ?",
-    "answer": "La porte XOR (OU Exclusif)"
-  },
-  {
-    "question": "En algèbre de Boole, que vaut toujours l'expression A + 0 ?",
-    "answer": "A"
-  },
-  {
-    "question": "En algèbre de Boole, que vaut toujours l'expression A . 1 ?",
-    "answer": "A"
-  },
-  {
-    "question": "En algèbre de Boole, que vaut toujours l'expression A + 1 ?",
-    "answer": "1"
-  },
-  {
-    "question": "En algèbre de Boole, que vaut toujours l'expression A . 0 ?",
-    "answer": "0"
-  },
-  {
-    "question": "En algèbre de Boole, que vaut l'expression A + (NON A) ?",
-    "answer": "1"
-  },
-  {
-    "question": "En algèbre de Boole, que vaut l'expression A . (NON A) ?",
-    "answer": "0"
-  },
-  {
-    "question": "Quel théorème indique que NON(A + B) = NON(A) . NON(B) ?",
-    "answer": "Le théorème de De Morgan"
-  },
+ 
   {
     "question": "Quel circuit logique combinatoire sélectionne une entrée parmi plusieurs selon une adresse ?",
     "answer": "Le multiplexeur"
@@ -268,24 +273,12 @@
     "answer": "127"
   },
   {
-    "question": "Quelle porte logique renvoie 1 si et seulement si ses deux entrées sont de valeur identique ?",
-    "answer": "La porte XNOR (Équivalence)"
-  },
-  {
-    "question": "En algèbre de Boole, quel est le résultat de l'expression NON(NON(A)) ?",
-    "answer": "A (Loi d'involution)"
-  },
-  {
     "question": "En algèbre de Boole, quel est l'élément neutre de l'addition logique (fonction OU) ?",
     "answer": "0"
   },
   {
     "question": "En algèbre de Boole, quel est l'élément neutre de la multiplication logique (fonction ET) ?",
     "answer": "1"
-  },
-  {
-    "question": "Quelles sont les deux portes logiques dites 'universelles' capables de recréer toutes les autres ?",
-    "answer": "NAND et NOR"
   },
   {
     "question": "Comment nomme-t-on le bit supplémentaire ajouté à une donnée binaire pour vérifier qu'elle n'a pas été corrompue ?",
